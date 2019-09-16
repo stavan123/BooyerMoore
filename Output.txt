@@ -1,0 +1,26 @@
+Output 
+1.The output of the BadCharacterHeurastics file
+
+
+
+Boyer Moore String Matching Algorithm by Bad Character Heuristic Approach
+Enter text: This is a simple file for testing
+Enter pattern to search in the text: testing
+Pattern occur at shift = 26
+
+
+
+2.This is the  output of the Plagarism.py file
+Steps :
+1 Create a directory of the files that you want to test
+2. Execute the plagarism.py file
+Enter the directory mydir1
+
+Enter the pattern file  patterntext.txt
+
+Checking  BoyerMoore.py
+Match percentage = 14.285714285714286%
+Checking  FinalCodeSe.txt
+Match percentage = 0.0%
+Checking  OneTimePad.txt
+Match percentage = 0.0%
