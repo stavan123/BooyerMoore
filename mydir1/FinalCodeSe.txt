@@ -1,0 +1,298 @@
+Owner.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class Owner {
+    public Owner() {
+    }
+    public String Name;
+    public void getValues() {
+        // TODO implement here
+    }
+   public void setValues() {
+        // TODO implement here
+    }
+    public void login() {
+        // TODO implement here
+    }
+    public class AssociationClass1 {
+ public AssociationClass1() {
+        }
+    }
+}
+
+login.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class login {
+    public login() {
+    }
+    public String name;
+    public int password;
+    public void access(String name, int password) {
+        // TODO implement here
+    }
+}
+
+System .java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class System {
+
+    public System() {
+    }
+    public Boolean status;
+    public void login() {
+        // TODO implement here
+    }
+    public void logout() {
+        // TODO implement here
+    }
+
+    public void selectAppliance() {
+        // TODO implement here
+    }
+    public void setValues() {
+        // TODO implement here
+    }
+    public void update() {
+        // TODO implement here
+    }
+    public void display() {
+        // TODO implement here
+    }
+}
+
+Class1.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class Class1 extends Owner {
+public Class1() {
+    }
+}
+
+Class2.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class Class2 extends Owner {
+    public Class2() {
+    }
+}
+ 
+Class3.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class Class3 {
+    public Class3() {
+    }
+}
+
+Class4.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class Class4 {
+   public Class4() {
+    }
+}
+
+Class5.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class Class5 {
+public Class5() {
+    }
+}
+
+Department.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class Department {
+    public Department() {
+    }
+    public String name;
+    public void alert() {
+        // TODO implement here
+    }
+    public void notify1() {
+        // TODO implement here
+    }
+    public void alertAthorities() {
+        // TODO implement here
+    }
+}
+ 
+ElectricStove.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class ElectricStovee extends System {
+    public ElectricStovee() {
+    }
+    public Boolean stoveon;
+    public Boolean stioveoff;
+    public void firealarm() {
+        // TODO implement here
+    }
+    public void checkstatus() {
+        // TODO implement here
+    }
+    public void changevalues() {
+        // TODO implement here
+    }
+public void setvalues() {
+        // TODO implement here
+    }
+}
+
+FanOption.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class FanOption extends System {
+    public FanOption() {
+    }
+    public Boolean fanon;
+    public Boolean fanoff;
+    public void checkstatius() {
+        // TODO implement here
+    }
+    public void changevalues() {
+        // TODO implement here
+    }
+    public void setvalues() {
+        // TODO implement here
+    }
+}
+
+FireAlarm.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class FireAlarm {
+    public FireAlarm() {
+    }
+    public Boolean status;
+    public void detectFire() {
+        // TODO implement here
+    }
+    public void onAlarm() {
+        // TODO implement here
+    }
+}
+
+ Home_security_system.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class Home_security_system extends System {
+    public Home_security_system() {
+    }
+    public Boolean system_on;
+    public Boolean system_off;
+    public void securityalertsystem() {
+        // TODO implement here
+    }
+    public void alertpolice() {
+        // TODO implement here
+    }
+    public void chechstatus() {
+        // TODO implement here
+    }
+    public void setvalues() {
+        // TODO implement here
+    }
+    public void moinitor() {
+        // TODO implement here
+    }
+    public void notifypolice() {
+        // TODO implement here
+    }
+}
+
+
+Microwave.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class Microwave extends System {
+    public Microwave() {
+    }
+    public void on_status(){};
+    public void off_status(){};
+    public void checkStatus() {
+        // TODO implement here
+    }
+    public void changeValue() {
+        // TODO implement here
+    }
+    public void set_values() {
+        // TODO implement here
+    }
+    public void fire_alarm() {
+        // TODO implement here
+    }
+}
+
+securityalarm.java
+ 
+package smarthomefinal.Model;
+import java.util.*;
+
+public class securityalarm {
+
+    public securityalarm() {
+    }
+    public Boolean status;
+    public void detect() {
+        // TODO implement here
+    }
+    public void onAlarm() {
+        // TODO implement here
+    }
+}
+
+smokealarm.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class smokealarm {
+    public smokealarm() {
+    }
+    public Boolean stataus;
+    public void detectsmoke() {
+        // TODO implement here
+    }
+    public void onalarm() {
+        // TODO implement here
+    }
+}
+
+Tv.java
+
+package smarthomefinal.Model;
+import java.util.*;
+public class Tv extends System {
+
+    public Tv() {
+    }
+      public void on_status(){};
+    public void off_status(){};
+
+    public void check_status() {
+        // TODO implement here
+    }
+    public void change_value() {
+        // TODO implement here
+    }
+    public void set_values() {
+        // TODO implement here
+    }
+}
