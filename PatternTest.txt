@@ -1,39 +1,4 @@
-
-def badCharHeuristic(string, size):
-	badChar = [-1]*256
-	for i in range(size):
-		badChar[ord(string[i])] = i;
-	return badChar
-
-def search(txt, pat):
-	m = len(pat)
-	n = len(txt)
-	badChar = badCharHeuristic(pat, m)
-	s= 0
-	while(s <= n-m):
-		j = m-1
-		while j>=0 and pat[j] == txt[s+j]:
-			j -= 1
-		if j<0:
-			print("Pattern occur at shift = {}".format(s))
-			s += (m-badChar[ord(txt[s+m])] if s+m<n else 1)
-		else:
-			s += max(1, j-badChar[ord(txt[s+j])])
-
-print("Boyer Moore String Matching Algorithm by Bad Character Heuristic Approach")
-txt = input("Enter text: ")
-pat = input("Enter pattern to search in the text: ")
-search(txt, pat)
-
-
-import sys
-import re
-import os
-dir = input ("Enter the directory")
-text1 = input ("Enter the pattern file")
-if os.path.isdir(dir) == 0:
-    print("The directory does not exist")
-    sys.exit(0)
-for textfile in os.listdir(dir):
-    if textfile[0] == "." :
-        continue
+Cricketes occur up to the English Civil War and these indicate that cricket had become an adult game contested by parish teams, but there is no evidence of county strength teams at this time. Equally, there is little evidence of the rampant gambling that characterised the game 
+The Commonwealth After the Civil War ended in 1648, the new Puritan government clamped down on "unlawful assemblies", in particular the more raucous sports such as football. Their laws also demanded a stricter observance of the Sabbath than there had been previously. As the Sabbath was the only free time available to the lower classes, cricket's popularity may have waned during the Commonwealth. However, it did  ip was invented around 1853. (The longest recorded game of cricket took place in 1939 and spanned a period of nine days.)Baseball:Alexander Cartwright (1820-1892) of New York invented the baseball field as we know it in 1845. Cartwright and the members of his New York Knickerbocker Base Ball Club​ devised the first rules and regulations that became the accepted standard for the modern game of baseball.
+the big arenas, but could occur in exercises in the military. It was the Roman culture that would bring football to the British island (Britannica). It is, however, uncertain in which degree the British people were influenced by this variability and in which degree they had developed their own variants.The ball may be thrown in any direction with one or both hands.
+The ball may be batted in any direction with one or both hands.
