@@ -14,13 +14,14 @@ Pattern occur at shift = 26
 Steps :
 1 Create a directory of the files that you want to test
 2. Execute the plagarism.py file
-Enter the directory mydir1
 
-Enter the pattern file  patterntext.txt
-
-Checking  BoyerMoore.py
-Match percentage = 14.285714285714286%
-Checking  FinalCodeSe.txt
-Match percentage = 0.0%
-Checking  OneTimePad.txt
-Match percentage = 0.0%
+Enter the directoryinputdir
+Enter the pattern filePatternTest.txt
+Checking  BasketBall.txt
+Match percentage = 30.76923076923077%
+Checking  cricket.txt
+Match percentage = 15.384615384615385%
+Checking  football.txt
+Match percentage = 23.076923076923077%
+Checking  UFC.txt
+Match percentage = 38.46153846153846%
