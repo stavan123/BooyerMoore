@@ -1,7 +1,7 @@
-                                              NAME : STAVAN RAJESH KHISTY
-                                    COMPUTER SCIENCE AND ENGINEERING (SHIFT 1)
-                                    DESIGN AND ANALYSIS OF ALGORITHM ASSIGNMENT
-                                                  ROLL NO : 77
+    NAME : STAVAN RAJESH KHISTY
+    COMPUTER SCIENCE AND ENGINEERING (SHIFT 1)
+    DESIGN AND ANALYSIS OF ALGORITHM ASSIGNMENT
+    ROLL NO : 77
 
 
 #  1. BooyerMoore
