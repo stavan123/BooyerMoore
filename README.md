@@ -18,7 +18,7 @@ Try this example here http://stavankhisty.pythonanywhere.com/
 
 
 #  2. Pagarism Detection Application of Boyer Moore
-Program Logic
+
 Plagarism detection is a application of Boyer Moore Algorithm. The Program takes a directory as input and a pattern file which is compared with the files in the directoy using the Boyer Moore Algorithm. The files in the directory are read one by one and the each of the are compared with the pattern file. After you execute the Plagarism.py file  then  it outputs the  percentage of the file that is plagered. If the percentage is greater the 75% then it prints that the file is plagered.
 
 Program for implementing  Plagarism Detection.
