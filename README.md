@@ -1,3 +1,8 @@
+                                 NAME : STAVAN RAJESH KHISTY
+                          COMPUTER SCIENCE AND ENGINEERING (SHIFT 1)
+                                      ROLL NO : 77
+
+
 # BooyerMoore
 Program for implementing BooyerMoore and its application of Plagarism Detection.
 1. The BooyerMooreBadCharHeurastics  contain the Booyer Moore Algorithm implementation using the bad character Heurastics in python.
