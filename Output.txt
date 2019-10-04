@@ -4,7 +4,10 @@ Output
 
 
 Boyer Moore String Matching Algorithm by Bad Character Heuristic Approach
-Enter text: This is a simple file for testing
+Example 
+
+
+Enter text:This is a simple file for testing
 Enter pattern to search in the text: testing
 Pattern occur at shift = 26
 
