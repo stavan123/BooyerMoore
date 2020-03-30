@@ -1,6 +1,6 @@
     NAME : STAVAN RAJESH KHISTY
     COMPUTER SCIENCE AND ENGINEERING (SHIFT 1)
-    DESIGN AND ANALYSIS OF ALGORITHM ASSIGNMENT
+    ADVANCED DATASTRUCTURE AND  ALGORITHM ASSIGNMENT
     ROLL NO : 77
 
 
@@ -13,20 +13,17 @@ Example :
 Input:  txt[] = "THIS IS A TEST TEXT"
         pat[] = "TEST"
 Output: Pattern found at index 10
-Try this example here http://stavankhisty.pythonanywhere.com/
-
 
 
 #  2. Pagarism Detection Application of Boyer Moore
 
-Plagarism detection is a application of Boyer Moore Algorithm. The Program takes a directory as input and a pattern file which is compared with the files in the directoy using the Boyer Moore Algorithm. The files in the directory are read one by one and the each of the are compared with the pattern file. After you execute the Plagarism.py file  then  it outputs the  percentage of the file that is plagered. If the percentage is greater the 75% then it prints that the file is plagered.
+Plagarism detection is a application of Boyer Moore Algorithm. The Program takes a directory as input and a pattern file which is compared with the files in the directoy using the Boyer Moore Algorithm. The files in the directory are read one by one and the each of the are compared with the pattern file. After you execute the Plagarism.exe file  then  it outputs the  percentage of the file that is plagered. If the percentage is greater the 75% then it prints that the file is plagered.
 
 Program for implementing  Plagarism Detection.
-  Steps to execute plagarism.py
+  Steps to execute 
+1. Download the Plagarism.exe file or you can download and clone the whole project.
+2. Simple run the Plagarism.exe file
+3. Select the folder containing the file to be checked for plagariam by clicking the select folder button.
+4. Select the pattern filr by clicking the select pattern file button.
+5. Click the check button to get the result.
 
-  1. Create a directory which contains the files to be texted for plagarism.
-  2. Create a patterntext file like we have in our project
-  3. Execute the plagarism.py file
-    enter the directory <nameof directory>
-    enter the patternfile <name of pattern file>
-  4. Check the Output file for more details
