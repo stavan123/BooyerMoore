@@ -23,3 +23,8 @@ Program for implementing  Plagarism Detection.
 4. Select the pattern file by clicking the select pattern file button.
 5. Click the check button to get the result.
 
+#  3. Running Time
+
+Running Time:
+O(mn) time in worst case
+O(n/m) in best case
