@@ -26,5 +26,5 @@ Program for implementing  Plagarism Detection.
 #  3. Running Time
 
 Running Time:
-O(mn) time in worst case
-O(n/m) in best case
+1. O(mn) time in worst case
+2. O(n/m) in best case
