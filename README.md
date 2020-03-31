@@ -24,6 +24,6 @@ Program for implementing  Plagarism Detection.
 1. Download the Plagarism.exe file or you can download and clone the whole project.
 2. Simple run the Plagarism.exe file
 3. Select the folder containing the file to be checked for plagariam by clicking the select folder button.
-4. Select the pattern filr by clicking the select pattern file button.
+4. Select the pattern file by clicking the select pattern file button.
 5. Click the check button to get the result.
 
