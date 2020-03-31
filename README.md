@@ -6,14 +6,10 @@
 
 #  1. BooyerMoore
 Pattern searching is an important problem in computer science. When we do search for a string in notepad/word file or browser or database, pattern searching algorithms are used to show the search results.
-Program for simple Boyer moore using BadCharacter Heurastics.
-The BooyerMooreBadCharHeurastics.py  contain the Booyer Moore Algorithm implementation using the bad character Heurastics in python.
-
 Example :
 Input:  txt[] = "THIS IS A TEST TEXT"
         pat[] = "TEST"
 Output: Pattern found at index 10
-
 
 #  2. Pagarism Detection Application of Boyer Moore
 
